@@ -1,0 +1,52 @@
+.main {
+    min-width: 400px;
+    height: 100vh;
+    background: linear-gradient(to bottom, #fdc830, #ed773c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.chk {
+    background-color: inherit !important;
+}
+.white {
+    background-color: white ;
+}
+
+.numbers-btn {
+    background-color: #fbfbfb;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.numbers-btn:hover {
+    background: linear-gradient(to top, #ece9e6, #ffffff);
+    font-weight: bold;
+}
+
+.calval-btn {
+    background-color: #fbfbfb;
+    color: #fb8500;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.calval-btn:hover {
+    background: linear-gradient(to top, #ece9e6, #ffffff);
+    color: #fb8500;
+    font-weight: bold;
+}
+
+.isEqualBtn {
+    background-color: #fb8500;
+    color: white;
+    font-size: 20px;
+}
+.isEqualBtn:hover {
+    background-color: #fb8500;
+    color: white;
+    font-weight: bolder;
+}
+.heading{
+    text-decoration: underline solid #fb8500;
+    text-underline-offset: 0.2em;
+}
